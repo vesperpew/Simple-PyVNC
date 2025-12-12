@@ -1,6 +1,3 @@
-# Advertisement
-To buy our products, head up to https://vespy.shop
-
 # PyVNC
 A simple python VNC. Supports mouse & keyboard, with a frame rate of around 30 to 50 fps.
 
